@@ -1,0 +1,11 @@
+transaction_id,date,category,amount,currency
+TXN001,2025-01-15,electronics,150.00,USD
+TXN002,2025-01-15,groceries,45.50,USD
+TXN003,2025-01-16,electronics,299.99,USD
+TXN004,2025-01-16,clothing,89.00,USD
+TXN005,2025-01-17,groceries,120.75,USD
+TXN006,2025-01-17,electronics,549.00,USD
+TXN007,2025-01-18,dining,35.00,USD
+TXN008,2025-01-18,groceries,67.25,USD
+TXN009,2025-01-19,electronics,199.99,USD
+TXN010,2025-01-19,clothing,150.00,USD
